@@ -1,0 +1,17 @@
+C - What are standards, keywords, modularization and optimization?
+C - What are 3 types of memory you can use?
+C - Define Datatypes. (3 divisions)
+C - #Define Statement and its usecases. Const vs. Define.
+C - Typedef and its usecases. Typedef vs. Define.
+C - Variable length arrays (VLAs)
+C - Flexible array members
+C - Restrictions
+C - Challenge
+C - Complex number types
+C - Designated initializers - Array initializers, Struct initializers.
+C - Unions
+C - Storage Classes (Automatic variable, External, Static, Register)
+C - Type Qualifiers (Const qualifier, Volatile, Restrict)
+C - Binary numbers and bits (Calculation conversion, Word size, Negative numbers)
+C - Operators (3 types, Masks, Bitfields to pack data, Digraphs and bitwise operators)
+C - The Preprocessor (What, Include, Conditional compilations, Pragmas)
